@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/JoseChatataJallo2004/redux-react/static/css/main.66480647.css",
+    "main.js": "/JoseChatataJallo2004/redux-react/static/js/main.32a53649.js",
+    "static/media/logo.svg": "/JoseChatataJallo2004/redux-react/static/media/logo.0905522d6d18ceaafa60a31e87c99e88.svg",
+    "index.html": "/JoseChatataJallo2004/redux-react/index.html",
+    "main.66480647.css.map": "/JoseChatataJallo2004/redux-react/static/css/main.66480647.css.map",
+    "main.32a53649.js.map": "/JoseChatataJallo2004/redux-react/static/js/main.32a53649.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66480647.css",
+    "static/js/main.32a53649.js"
+  ]
+}
